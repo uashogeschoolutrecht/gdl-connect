@@ -1,0 +1,37 @@
+topic,methods
+Adverse outcome pathways in modern toxicology,What are AOPs?
+AOPs and NAMs,
+Current approaches building AOPs,
+Advances in Natural Language Processing,
+AOP developer inspection,ensure models are providing correct information
+Information gathering,store information in machine-readable format
+Graph databases,enable easy visualization of relationships and their WoE
+NAMs support,can be used as input for similarity approaches in chemical screening
+WoE for KERs,help in the discovery of novel events and combining AOPs into networks
+Limitations of the approach,availability of open-science format publications and bias for positive results
+Animal testing-based toxicology,gain from the introduction of new machine learning techniques
+NLP,describe AOPs and support the selection of KEs for testing in NAMs
+Machine learning techniques,improve the knowledge gathering process from literature
+Funding,supported by projects ONTOX and VHP4Safety
+References,references to relevant papers and studies
+Language models,sequence modeling
+Genia event task,BioNLP Shared Task 2011 Workshop
+ScispaCy,biomedical natural language processing
+DISEASES,text mining and data integration of disease-gene associations
+AOP-based mucus hypersecretion genesets,text mining to develop AOP-based mucus hypersecretion genesets and confirmation with in vitro and clinical samples
+oxidative stress-mediated EGFR activation,adverse outcome pathway for oxidative stress-mediated EGFR activation leading to decreased lung function
+AOP-helpFinder webserver,comprehensive analysis of the literature to support adverse outcome pathways development
+Bisphenol S,text mining and systems biology approach Linking Bisphenol S to adverse outcome pathways
+AOP4EUpest,text mining tool mapping of pesticides in adverse outcome pathways
+detecting medication mentions in tweets,Deep neural networks ensemble for detecting medication mentions in tweets
+InferBERT,transformer-based causal inference framework for enhancing pharmacovigilance
+mammalian phenotype ontology,enabling robust annotation and comparative analysis
+OntoX-project,ontox-project.eu
+PubMed,https://pubmed.ncbi.nlm.nih.gov/
+VHP4Safety,https://vhp4safety.nl/
+AOPWiki,AOPWiki adverse outcome pathway AOP number 18
+Natural Language Processing in Toxicology,Delineating adverse outcome pathways and guiding the application of new approach methodologies
+Automated text analysis,Extracting and organizing information from relevant sources using deep learning Natural Language Processing techniques
+NLP in the biomedical and toxicology areas,Reviewing recent progress in the NLP field and demonstrating its value in these areas
+Efficient extraction and combination of toxicological information from text,Proposing an approach to efficiently and reliably extract and combine relevant toxicological information from text
+Mapping underlying mechanisms that lead to toxicological effects and building quantitative models,Using the extracted data to map underlying mechanisms and build AOPs for animal-free human-based hazard and risk assessment
