@@ -10,7 +10,7 @@ API stands for Application Programming Interface and is a way to communicate to 
 
 To use an API, it is essenstial that you master some programming skills. Many APIs have implementations in R and Python, and for this reason alone it will pay off to learn about programming.
 
-## OpenAI AIP use case
+## OpenAI API use case
 
 In the demo we saw that we can we can extract information from a pdf file by uploading it into the ChatGPT GUI. But what if...we have hundreds, or even thousands of pdf files...It would be very tidious and labourious to extract specific info from them, using this approach. Luckely for us, there is a better and more efficient way.
 
