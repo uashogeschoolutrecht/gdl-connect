@@ -34,7 +34,7 @@ ConfigArgParse==0.13.0
 configobj==5.0.6
 constantly==15.1.0
 contourpy==1.1.1
-cryptography==2.8
+cryptography==42.0.0
 cycler==0.12.1
 dataclasses-json==0.6.3
 dbus-python==1.2.16
