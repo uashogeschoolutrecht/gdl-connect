@@ -87,7 +87,7 @@ jupyter-server==2.12.1
 jupyter-server-mathjax==0.2.6
 jupyter-server-terminals==0.5.0
 jupyter-telemetry==0.1.0
-jupyterhub==4.0.1
+jupyterhub==4.1.0
 jupyterlab==4.0.3
 jupyterlab-git==0.41.0
 jupyterlab-pygments==0.3.0
